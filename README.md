@@ -28,21 +28,21 @@
 ## GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan681e&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan681&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan681&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ## GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aryan681&theme=darkhub&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ## Activity Graph:
@@ -62,7 +62,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan681&repo=URL-Shortner&theme=dark" />
   </a>
 </p>
----
+
 
 ## 🌐 Top Languages
 

@@ -1,5 +1,10 @@
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Nice+to+meet+you!+%F0%9F%91%8B;An+aspirant+and+ardent+Web+Developer;Passionate+about+coding+and+technology">
+</p>
+
+<p align="center">
 # Hi there, I'm Aryan Singh Naruka! 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/-AryanSinghNaruka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryansingh1-2)](https://www.linkedin.com/in/aryansingh1-2)
@@ -19,13 +24,44 @@
 
 ---
 
-## 🚀 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan681&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aryan681&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+## GitHub Stats:
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+## GitHub Trophies:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+## Activity Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan681&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+ 
+
+
+## Top Repositories:
+
+<p align="center">
+  <a href="https://github.com/Aryan681/blogify">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan681&repo=blogify&theme=dark" />
+  </a>
+  <a href="https://github.com/Aryan681/URL-Shortner">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan681&repo=URL-Shortner&theme=dark" />
+  </a>
+</p>
 ---
 
 ## 🌐 Top Languages
@@ -77,19 +113,6 @@
 
 
 
-## 📚 Projects
-
-### Blogify (May 2024)
-A comprehensive platform that meets the needs of modern bloggers by combining ease of use, powerful features, and community engagement. It is built using ExpressJS, NodeJS, MongoDB, Tailwind CSS, and Vanilla JS.
-- Centralized Blog Management and SEO Optimization
-- Comprehensive Analytics and Mobile Optimization
-
-### URL Shortener (April 2024)
-A site to facilitate URL shortening, allowing users to shorten lengthy URLs and track their click counts. Built with HTML, CSS, Tailwind CSS, MongoDB, Express, Node.js, EJS, and JavaScript.
-- URL shortening
-- Track click counts
-
----
 
 ## 🏅 Achievements
 

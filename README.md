@@ -1,6 +1,6 @@
 ![Header](https://your-image-url.com/banner.png)
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Aryan Singh! 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/yourprofile/)
 [![Twitter Badge](https://img.shields.io/badge/-YourTwitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourprofile/)](https://twitter.com/yourprofile/)

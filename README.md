@@ -89,10 +89,6 @@
 
 ## 🌐 Top Languages
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan681&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=your-repo1,your-repo2" alt="Top Languages" />
-</div>
-
 
 ## 🛠️ Skills
 

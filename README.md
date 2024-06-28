@@ -1,15 +1,14 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Nice+to+meet+you!+%F0%9F%91%8B;An+aspirant+and+ardent+Web+Developer;Passionate+about+coding+and+technology">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+I+am+Aryan+Singh;Nice+to+meet+you!+%F0%9F%91%8B;An+aspirant+and+ardent+Web+Developer;Passionate+about+coding+and+technology">
 </p>
 
-<p align="center">
+
+<h1 align="center">
 # Hi there, I'm Aryan Singh Naruka! 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-AryanSinghNaruka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryansingh1-2)](https://www.linkedin.com/in/aryansingh1-2)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://x.com/Aryan_Naruka)](https://x.com/Aryan_Naruka)
-[![Gmail Badge](https://img.shields.io/badge/-Aryannaruka7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Aryannaruka7@gmail.com)](mailto:Aryannaruka7@gmail.com)
+
 ---
 
 ## About Me
@@ -22,13 +21,15 @@
 - 📫 How to reach me: [Aryannaruka7@gmail.com](mailto:Aryannaruka7@gmail.com)
 - ⚡ Fun fact: I was a member of the National Cadet Corps (NCC) and participated in various social outreach programs and national camps
 
----
+<!-- Visitor Count Dynamic Badge -->
+
+
 
 
 ## GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan681e&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan681&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -78,7 +79,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -94,7 +95,7 @@
   <img src="https://img.shields.io/badge/Mongoose%20ODM-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose ODM" />
   <img src="https://img.shields.io/badge/Systems%20Programming-333333?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Systems Programming" />
   <img src="https://img.shields.io/badge/Postman%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman API" />
-  <img src="https://img.shields.io/badge/Back--End%20Web%20Development-282828?style=for-the-badge&logo=node.js&logoColor=white" alt="Back-End Web Development" />
+  <img src="https://img.shields.io/badge/Back--End%20Web%20Development-282828?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Back-End Web Development" />
   <img src="https://img.shields.io/badge/PugJS-A86454?style=for-the-badge&logo=pug&logoColor=white" alt="PugJS" />
   <img src="https://img.shields.io/badge/REST%20APIs-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Embedded%20JavaScript%20(EJS)-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Embedded JavaScript (EJS)" />
@@ -109,6 +110,7 @@
   <img src="https://img.shields.io/badge/Problem%20Solving-4CAF50?style=for-the-badge&logo=matrix&logoColor=white" alt="Problem Solving" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </div>
+
 
 
 
@@ -145,6 +147,7 @@ The skills learned in this course include:
   </a>
 
 
+[![Gmail Badge](https://img.shields.io/badge/--c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Aryannaruka7@gmail.com)](mailto:Aryannaruka7@gmail.com)
 ---
 
 

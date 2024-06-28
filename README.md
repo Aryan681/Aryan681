@@ -171,6 +171,7 @@ The skills learned in this course include:
   </a>
 </div>
 
----
+<div style="height: 2px; background-color: rgb(0, 123, 255); margin: 20px auto;"></div>
 
+---
 

@@ -1,29 +1,47 @@
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+I+am+Aryan+Singh;Nice+to+meet+you!+%F0%9F%91%8B;An+aspirant+and+ardent+Web+Developer;Passionate+about+coding+and+technology">
 </p>
 
-
-<h1 align="center">
-# Hi there, I'm Aryan Singh Naruka! 👋
-
+<h1 align="center">Hi there, I'm Aryan Singh Naruka! 👋</h1>
 
 ---
 
-## About Me
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+  
+  ## About Me
 
-- 🎓 B.Tech Computer Science student at Nims Institute of Engineering and Technology, Jaipur, India (2022-2026)
-- 🌟 SGPA: 7.6
-- 🌱 Currently learning Full Stack Web Development
-- 👯 Looking to collaborate on open-source projects
-- 💬 Ask me about anything related to C++, Java, JavaScript, NodeJS, and React.
-- 📫 How to reach me: [Aryannaruka7@gmail.com](mailto:Aryannaruka7@gmail.com)
-- ⚡ Fun fact: I was a member of the National Cadet Corps (NCC) and participated in various social outreach programs and national camps
-
-<!-- Visitor Count Dynamic Badge -->
-
-
+  <ul dir="auto">
+    <li>
+      <p dir="auto">🎓 B.Tech Computer Science student at Nims Institute of Engineering and Technology, Jaipur, India (2022-2026)</p>
+    </li>
+    <li>
+      <p dir="auto">🌟 SGPA: 7.6</p>
+    </li>
+    <li>
+      <p dir="auto">🌱 Currently learning Full Stack Web Development</p>
+    </li>
+    <li>
+      <p dir="auto">👯 Looking to collaborate on open-source projects</p>
+    </li>
+    <li>
+      <p dir="auto">💬 Ask me about anything related to C++, Java, JavaScript, NodeJS, and React.</p>
+    </li>
+    <li>
+      <p dir="auto">📫 How to reach me: <a href="mailto:Aryannaruka7@gmail.com">Aryannaruka7@gmail.com</a></p>
+    </li>
+    <li>
+      <p dir="auto">⚡ Fun fact: I was a member of the National Cadet Corps (NCC) and participated in various social outreach programs and national camps</p>
+    </li>
+  </ul>
+  
+  </div>
+  
+  <div style="flex: 1; margin-left: 20px;">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2IzajZydTd2YmR1Z3A5cnY3ZnI5aW0ybTE1YTlicXc4OXpweHVzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" alt="Male Web Developer GIF" style="width: 300px;">
+  </div>
+  
+</div>
 
 
 ## GitHub Stats:
@@ -50,8 +68,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan681&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
- 
-
 
 ## Top Repositories:
 
@@ -62,6 +78,12 @@
   <a href="https://github.com/Aryan681/URL-Shortner">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan681&repo=URL-Shortner&theme=dark" />
   </a>
+</p>
+
+## 🌐 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan681&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=your-repo1,your-repo2" alt="Top Languages" />
 </p>
 
 
@@ -135,20 +157,20 @@ The skills learned in this course include:
 - **Tools and Deployment**: Docker, Heroku
 
 ---
-
 ## 🌍 Let's Connect!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aryansingh1-2">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   <a href="https://x.com/Aryan_Naruka">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Profile" />
   </a>
+  <a href="mailto:Aryannaruka7@gmail.com">
+    <img src="https://img.shields.io/badge/--c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-
-[![Gmail Badge](https://img.shields.io/badge/--c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Aryannaruka7@gmail.com)](mailto:Aryannaruka7@gmail.com)
 ---
-
 
 

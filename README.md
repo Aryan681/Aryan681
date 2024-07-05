@@ -16,7 +16,7 @@
       <p dir="auto">🎓 B.Tech Computer Science student at Nims Institute of Engineering and Technology, Jaipur, India (2022-2026)</p>
     </li>
     <li>
-      <p dir="auto">🌟 SGPA: 7.6</p>
+      <p dir="auto">🌟 SGPA: 7.6 </p>
     </li>
     <li>
       <p dir="auto">🌱 Currently learning Full Stack Web Development</p>

@@ -25,7 +25,7 @@
       <p dir="auto">👯 Looking to collaborate on open-source projects</p>
     </li>
     <li>
-      <p dir="auto">💬 Ask me about anything related to C++, Java, JavaScript, NodeJS, and React.</p>
+      <p dir="auto">💬 Ask me about anything related to C++ , Java, JavaScript, NodeJS, and React.</p>
     </li>
     <li>
       <p dir="auto">📫 How to reach me: <a href="mailto:Aryannaruka7@gmail.com">Aryannaruka7@gmail.com</a></p>

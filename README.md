@@ -156,7 +156,7 @@ The skills learned in this course include:
 ## 🌍 Let's Connect!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aryansingh1-2">
+  <a href="https://www.linkedin.com/in/aryansingh1-2-/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   <a href="https://x.com/Aryan_Naruka">

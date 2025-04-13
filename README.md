@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+I+am+Aryan+Singh;Nice+to+meet+you!+%F0%9F%91%8B;An+aspirant+and+ardent+Web+Developer;Passionate+about+coding+and+technology">
 </p>
 
-<h1 align="center">Hi there, I'm Aryan Singh Naruka! 👋</h1>
+<h1 align="center">Hi there, I'm Aryan Singh ! 👋</h1>
 
 ---
 

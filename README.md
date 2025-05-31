@@ -75,7 +75,7 @@
   <a href="https://github.com/Aryan681/blogify">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan681&repo=blogify&theme=dark" />
   </a>
-  <a href="[[https://github.com/Aryan681/Code]">
+  <a href="[https://github.com/Aryan681/Code]">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan681&repo=URL-Shortner&theme=dark" />
   </a>
 </p>

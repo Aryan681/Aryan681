@@ -75,8 +75,12 @@
   <a href="https://github.com/Aryan681/blogify">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan681&repo=blogify&theme=dark" />
   </a>
-  <a href="https://github.com/Aryan681/Code">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan681&repo=URL-Shortner&theme=dark" />
+  <a href="https://github.com/Aryan681/ECO">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan681&repo=ECO&theme=dark" />
+  </a>
+</p>
+  <a href="https://github.com/Aryan681/Medi-Care">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan681&repo=Medi-Care&theme=dark" />
   </a>
 </p>
 
@@ -136,8 +140,10 @@
 
 ## 🏅 Achievements
 
-### NCC (National Cadet Corps), 14 Raj Battalion (2018 - 2020)
-As a member of the NCC in India, I engaged in various activities that fostered discipline and leadership and instilled a sense of duty towards my community and nation. From rigorous training sessions to participating in social outreach programs and national camps, each experience enriched my perspective and strengthened my commitment to making a positive difference.
+ ### 1) Winner , miniMide Hackathon (Devpost) – Best healthcare innovation (MediCare project).
+ ### 2) Finalist , Level SuperMind Hackathon – Recognized for technical excellence.
+
+
 
 ---
 

@@ -1,179 +1,373 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+I+am+Aryan+Singh;Nice+to+meet+you!+%F0%9F%91%8B;An+aspirant+and+ardent+Web+Developer;Passionate+about+coding+and+technology">
-</p>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h1 align="center">Hi there, I'm Aryan Singh ! 👋</h1>
+<!--                         ARYAN SINGH                                     -->
 
----
-
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-  
-  ## About Me
-
-  <ul dir="auto">
-    <li>
-      <p dir="auto">🎓 B.Tech Computer Science student at Nims Institute of Engineering and Technology, Jaipur, India (2022-2026)</p>
-    </li>
-    <li>
-      <p dir="auto">🌟 SGPA: 8.5 </p>
-    </li>
-    <li>
-      <p dir="auto">🌱 Currently learning Full Stack Web Development</p>
-    </li>
-    <li>
-      <p dir="auto">👯 Looking to collaborate on open-source projects</p>
-    </li>
-    <li>
-      <p dir="auto">💬 Ask me about anything related to C++ , Java, JavaScript, NodeJS, and React.</p>
-    </li>
-    <li>
-      <p dir="auto">📫 How to reach me: <a href="mailto:Aryannaruka7@gmail.com">Aryannaruka7@gmail.com</a></p>
-    </li>
-    <li>
-      <p dir="auto">⚡ Fun fact: I was a member of the National Cadet Corps (NCC) and participated in various social outreach programs and national camps</p>
-    </li>
-  </ul>
-  
-  </div>
-  
-  <div style="flex: 1; margin-left: 20px;">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2IzajZydTd2YmR1Z3A5cnY3ZnI5aW0ybTE1YTlicXc4OXpweHVzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" alt="Male Web Developer GIF" style="width: 301px;">
-  </div>
-  
-</div>
-
-
-## GitHub Stats:
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan681&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Aryan+Singh+%F0%9F%91%8B;Backend+Engineer+in+the+making;I+build+systems%2C+not+just+applications.;Curious+about+what+happens+under+the+hood."
+    alt="Typing animation"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan681&theme=dark" alt="GitHub Streak" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12,20,24&section=header&text=ARYAN%20SINGH&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan681&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-## GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryan681&theme=darkhub&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-## Activity Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan681&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
-## Top Repositories:
-
-<p align="center">
-  <a href="https://github.com/Aryan681/blogify">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan681&repo=blogify&theme=dark" />
+  <a href="https://github.com/Aryan681">
+    <img src="https://img.shields.io/github/followers/Aryan681?label=Followers&style=flat-square&logo=github&color=58A6FF"/>
   </a>
-  <a href="https://github.com/Aryan681/ECO">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan681&repo=ECO&theme=dark" />
-  </a>
-</p>
-  <a href="https://github.com/Aryan681/Medi-Care">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan681&repo=Medi-Care&theme=dark" />
-  </a>
-</p>
-
-## 🌐 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan681&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=your-repo1,your-repo2" alt="Top Languages" />
-</p>
-
-
-
-
-
-## 🛠️ Skills
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/PL%2FSQL-1F425F?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
-  <img src="https://img.shields.io/badge/Data%20Structures-339933?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Structures" />
-  <img src="https://img.shields.io/badge/Software%20Development-217346?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Software Development" />
-  <img src="https://img.shields.io/badge/Mongoose%20ODM-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose ODM" />
-  <img src="https://img.shields.io/badge/Systems%20Programming-333333?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Systems Programming" />
-  <img src="https://img.shields.io/badge/Postman%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman API" />
-  <img src="https://img.shields.io/badge/Back--End%20Web%20Development-282828?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Back-End Web Development" />
-  <img src="https://img.shields.io/badge/PugJS-A86454?style=for-the-badge&logo=pug&logoColor=white" alt="PugJS" />
-  <img src="https://img.shields.io/badge/REST%20APIs-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Embedded%20JavaScript%20(EJS)-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Embedded JavaScript (EJS)" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
-  <img src="https://img.shields.io/badge/Leadership-FF6F00?style=for-the-badge&logo=meetup&logoColor=white" alt="Leadership" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Databases-FF5733?style=for-the-badge&logo=mariadb&logoColor=white" alt="Databases" />
-  <img src="https://img.shields.io/badge/Web%20Applications-007ACC?style=for-the-badge&logo=windows&logoColor=white" alt="Web Applications" />
-  <img src="https://img.shields.io/badge/Computer%20Engineering-FF6F61?style=for-the-badge&logo=computer&logoColor=white" alt="Computer Engineering" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-4CAF50?style=for-the-badge&logo=matrix&logoColor=white" alt="Problem Solving" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</div>
-
-
-
-
-
-
-## 🏅 Achievements
-
- ### 1) Winner , miniMide Hackathon (Devpost) – Best healthcare innovation (MediCare project).
- ### 2) Finalist , Level SuperMind Hackathon – Recognized for technical excellence.
-
-
-
----
-
-## 📜 Courses & Certifications
-
-### Full Stack Web Development, Udemy (June 2024 - Present)
-The skills learned in this course include:
-- **Frontend Development**: HTML, CSS, JavaScript, React, and Bootstrap
-- **Backend Development**: Node.js, Express.js
-- **Databases**: SQL, NoSQL, and MongoDB
-- **Version Control**: Git and GitHub
-- **APIs**: RESTful APIs, working with Postman
-- **Tools and Deployment**: Docker, Heroku
-
----
-## 🌍 Let's Connect!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/aryansingh1-2-/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-  <a href="https://x.com/Aryan_Naruka">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Profile" />
+  <a href="https://github.com/Aryan681?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Aryan681?affiliations=OWNER&style=flat-square&logo=github&color=58A6FF&label=Stars"/>
   </a>
   <a href="mailto:Aryannaruka7@gmail.com">
-    <img src="https://img.shields.io/badge/--c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Open%20to%20opportunities-58A6FF?style=flat-square"/>
   </a>
-</div>
+</p>
 
-<div style="height: 2px; background-color: rgb(0, 123, 255); margin: 20px auto;"></div>
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<!--                            TERMINAL                                    -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│  aryan@github ~ $ whoami                                             │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  Aryan Singh                                                         │
+│  ├── Backend Engineer                                                │
+│  ├── Computer Science                                                │
+│  ├── India 🇮🇳                                                       │
+│  └── Currently building things that probably shouldn't break 😅      │
+│                                                                      │
+│  aryan@github ~ $ cat interests.txt                                  │
+│                                                                      │
+│  > Backend Engineering                                               │
+│  > Distributed Systems                                               │
+│  > Databases & Infrastructure                                        │
+│  > Authentication & Security                                        │
+│  > System Design                                                     │
+│  > Open Source                                                       │
+│                                                                      │
+│  aryan@github ~ $ ./current_status                                   │
+│                                                                      │
+│  [████████████████████░░] Learning                                   │
+│  [██████████████████░░░░] Building                                  │
+│  [███████████████░░░░░░░] Exploring                                 │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
+## 🧑‍💻 A little about me
+
+I'm a **Computer Science graduate / backend-focused developer** who enjoys understanding how software works behind the API.
+
+I started with web development, but over time I became much more interested in the parts that aren't immediately visible:
+
+**databases → caching → queues → distributed services → authentication → reliability → security**
+
+I like taking an idea, breaking it into systems, and then figuring out how those systems communicate.
+
+Currently, I'm focused on becoming a stronger **backend / software engineer** and building things that resemble the systems used in real products.
+
+---
+
+## 🧠 My Engineering Mindset
+
+<p align="center">
+
+```text
+        ┌───────────────┐
+        │   BUILD IT    │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │ BREAK  IT     │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │ UNDERSTAND IT │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │  IMPROVE IT   │
+        └───────┬───────┘
+                │
+                └──────────────► repeat
+```
+
+</p>
+
+> **I don't just want to make things work.
+> I want to understand why they work — and what happens when they don't.**
+
+---
+
+## ⚡ Currently
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🔨 Building
+
+Backend systems
+
+**Node.js · PostgreSQL · Redis**
+
+</td>
+
+<td width="33%" align="center">
+
+### 📚 Learning
+
+Distributed systems
+
+**Docker · Kubernetes · System Design**
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧪 Exploring
+
+Security & infrastructure
+
+**OAuth · Queues · Cloud**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ My Toolkit
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,js,python" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### Data & Messaging
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq" />
+</p>
+
+### Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+---
+
+## 🧩 What I Like Working On
+
+```text
+Backend
+██████████████████████████████  90%
+
+Databases
+██████████████████████████░░░░  80%
+
+Distributed Systems
+████████████████████░░░░░░░░░░  70%
+
+Infrastructure
+██████████████████░░░░░░░░░░░░  65%
+
+Security
+██████████████████░░░░░░░░░░░░  65%
+
+Frontend
+███████████████░░░░░░░░░░░░░░░  55%
+```
+
+*Not scientific. Just an honest representation of where my curiosity currently lives.*
+
+---
+
+## 🗺️ My Journey
+
+```text
+2022
+ │
+ ├── Started Computer Science
+ │
+ ▼
+2023
+ │
+ ├── Web Development
+ │   ├── JavaScript
+ │   ├── React
+ │   └── Node.js
+ │
+ ▼
+2024
+ │
+ ├── Backend Engineering
+ │   ├── REST APIs
+ │   ├── MongoDB
+ │   └── PostgreSQL
+ │
+ ▼
+2025
+ │
+ ├── Real-world systems
+ │   ├── Redis
+ │   ├── RabbitMQ
+ │   ├── Docker
+ │   └── Microservices
+ │
+ ▼
+2026
+ │
+ ├── Going deeper
+ │   ├── System Design
+ │   ├── Distributed Systems
+ │   ├── Security
+ │   └── Infrastructure
+ │
+ ▼
+        🚀 What's next?
+```
+
+---
+
+## 🏆 A Few Milestones
+
+<p align="center">
+
+|    | Achievement                                                  |
+| -- | ------------------------------------------------------------ |
+| 🥇 | **Winner — miniMide Hackathon** · Best Healthcare Innovation |
+| 🏅 | **Finalist — Level SuperMind Hackathon**                     |
+| 🎓 | **B.Tech Computer Science · 2022–2026**                      |
+| 💻 | Built and deployed full-stack & backend systems              |
+| 🧠 | Actively solving DSA & studying system design                |
+
+</p>
+
+---
+
+## 🎮 Outside the Code
+
+When I'm not staring at a terminal:
+
+```text
+🎮 Gaming
+📚 Reading
+🏆 Hackathons
+🧩 DSA
+🎧 Music
+👥 LAN / Team Events
+```
+
+I'm also a former **NCC cadet**, which gave me a pretty different perspective on discipline, teamwork and responsibility outside of software.
+
+---
+
+## ☕ Random Facts
+
+```text
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  > favorite debugging technique                            │
+│    stare at the code until it becomes someone else's bug   │
+│                                                            │
+│  > preferred environment                                    │
+│    terminal + headphones + questionable amount of coffee   │
+│                                                            │
+│  > current obsession                                       │
+│    "how does this actually work under the hood?"           │
+│                                                            │
+│  > weakness                                                 │
+│    spending 3 hours optimizing something that worked       │
+│                                                            │
+│  > superpower                                               │
+│    refusing to leave a bug unexplained                     │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aryan681&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan681&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan681&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aryan681/Aryan681/output/github-contribution-grid-snake.svg" alt="Contribution animation"/>
+</p>
+
+---
+
+## 🌐 Find Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/aryansingh1-2-/">
+<img src="https://img.shields.io/badge/LinkedIn-Aryan%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Aryan_Naruka">
+<img src="https://img.shields.io/badge/X-@Aryan__Naruka-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:Aryannaruka7@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,20,24&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <b>Build → Break → Learn → Repeat.</b>
+</p>

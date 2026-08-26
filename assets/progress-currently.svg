@@ -1,0 +1,23 @@
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg" font-family="JetBrains Mono, monospace">
+  <defs>
+    <clipPath id="b1"><rect x="0" y="0" width="0" height="18"><animate attributeName="width" from="0" to="640" begin="0.2s" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/></rect></clipPath>
+    <clipPath id="b2"><rect x="0" y="0" width="0" height="18"><animate attributeName="width" from="0" to="420" begin="0.5s" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/></rect></clipPath>
+    <clipPath id="b3"><rect x="0" y="0" width="0" height="18"><animate attributeName="width" from="0" to="300" begin="0.8s" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/></rect></clipPath>
+  </defs>
+
+  <g font-size="14">
+    <text x="0" y="20" fill="#D97757">🔨 building</text>
+    <rect x="0" y="30" width="760" height="18" rx="4" fill="#241E19"/>
+    <g clip-path="url(#b1)"><rect x="0" y="30" width="760" height="18" rx="4" fill="#D97757"/></g>
+    <text x="0" y="66" fill="#EDE7DE" font-size="12">real-time calling/social backend — Node.js · Socket.io · Redis</text>
+
+    <text x="0" y="100" fill="#D97757">📚 learning</text>
+    <rect x="0" y="110" width="760" height="18" rx="4" fill="#241E19"/>
+    <g clip-path="url(#b2)"><rect x="0" y="110" width="760" height="18" rx="4" fill="#B98567"/></g>
+    <text x="0" y="146" fill="#EDE7DE" font-size="12">distributed systems — Docker · Kubernetes · System Design</text>
+  </g>
+
+  <g font-size="14" transform="translate(0,0)">
+    <text x="0" y="176" fill="#8A7B6C" font-size="12">🔍 exploring: auth · queues · cloud infra — ongoing, no bar needed, always on</text>
+  </g>
+</svg>

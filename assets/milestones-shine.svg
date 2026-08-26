@@ -10,9 +10,9 @@
     <clipPath id="frame3"><rect x="0" y="92" width="900" height="34"/></clipPath>
   </defs>
   <g font-size="15" fill="#30281F">
-    <text x="0" y="24">🥇 WINNER — miniMide Hackathon · Best Healthcare Innovation</text>
-    <text x="0" y="70">🏅 FINALIST — Level SuperMind Hackathon</text>
-    <text x="0" y="116">🎖️ Former NCC Cadet — discipline that carries into how I ship</text>
+    <text x="0" y="24" fill="#F0EEE6" >🥇 WINNER — miniMide Hackathon · Best Healthcare Innovation</text>
+    <text x="0" y="70" fill="#F0EEE6" >🏅 FINALIST — Level SuperMind Hackathon</text>
+    <text x="0" y="116" fill="#F0EEE6">🎖️ Former NCC Cadet — discipline that carries into how I ship</text>
   </g>
   <g clip-path="url(#frame1)"><rect width="220" height="34" fill="url(#shine)"><animate attributeName="x" from="-220" to="900" begin="0.3s" dur="2.2s" repeatCount="indefinite"/></rect></g>
   <g clip-path="url(#frame2)"><rect y="46" width="220" height="34" fill="url(#shine)"><animate attributeName="x" from="-220" to="900" begin="1s" dur="2.2s" repeatCount="indefinite"/></rect></g>

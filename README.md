@@ -1,8 +1,14 @@
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  aryan@claude-code — session transcript                     -->
+<!--  every asset below is self-hosted in /assets — no third-    -->
+<!--  party badge generators driving the main visuals            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 <img src="./assets/terminal-banner.svg" width="900" alt="Aryan Singh — terminal session"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/Aryan681"><img alt="github" src="https://img.shields.io/badge/Aryan681-1F1B17?style=flat-square&logo=github&logoColor=D97757&labelColor=1F1B17"></a>
 <a href="https://www.linkedin.com/in/aryansingh1-2-/"><img alt="linkedin" src="https://img.shields.io/badge/connect-1F1B17?style=flat-square&logo=linkedin&logoColor=D97757&labelColor=1F1B17"></a>
@@ -10,57 +16,223 @@
 
 </div>
 
+<img src="./assets/divider-pulse.svg" width="100%" alt=""/>
+
+<!-- ───────────────────────── interactive terminal ───────────────────────── -->
+
+## ⏺ `aryan@claude-code ~ $` <sub>— click any command to run it</sub>
+
+<details>
+<summary>⏺ <code>whoami --verbose</code></summary>
 <br/>
 
-### ⏺ Read(who-is-this.md)
+```
+Aryan Singh
+├─ role      : Backend Engineer (Node.js)
+├─ education : B.Tech CSE, NIMS University, Jaipur (2022–2026)
+├─ focus     : systems that stay up at 3am — not just APIs that respond
+└─ mindset   : build → break → understand → rebuild, better
+```
+</details>
 
-I'm **Aryan Singh** — a backend engineer who got into software through the frontend and
-never looked back once I saw what was happening behind the API. B.Tech CSE at NIMS
-University, Jaipur, class of 2026.
-
-I care about the part of the system nobody sees until it breaks: the queue that backs up
-at 2am, the cache that goes stale silently, the worker that dies without telling anyone.
-Most of my actual learning has come from being the person who had to find out why.
-
-### ⏺ Read(current-focus.md)
+<details>
+<summary>⏺ <code>cat currently-working-on.md</code></summary>
+<br/>
 
 ```
-building   → real-time calling / social backend — Node.js, Socket.io, Redis
-learning   → distributed systems: Docker, Kubernetes, system design
-exploring  → auth patterns, message queues, and infra at scale
+🔨 building     → real-time calling/social backend (Node.js, Socket.io, Redis)
+📚 learning      → distributed systems: Docker, Kubernetes, system design
+🔍 exploring     → auth, security, message queues at scale
+```
+</details>
+
+<details>
+<summary>⏺ <code>history | grep "why i do this"</code></summary>
+<br/>
+
+I don't chase frameworks. I chase the question **"what breaks first, and why?"**
+That question is basically my whole personality at this point — started with
+plain HTML/CSS/JS wondering why a browser even renders a `div`, ended up
+debugging queues that silently die at 2am. Every step of that path made the
+next system I built slightly harder to break.
+</details>
+
+<details>
+<summary>⏺ <code>man aryan</code> — the long version</summary>
+<br/>
+
+I'm **Aryan Singh**, a Computer Science graduate and backend-focused software
+developer from India. I started with web development, but the deeper I went,
+the more interested I became in what happens **behind the API**:
+
+```text
+HTTP Request → API → Auth → Business Logic → Database
+                              ├─ Cache
+                              └─ Message Queue → Other Services
 ```
 
-### ⏺ Read(stack.md)
+That's the stuff I enjoy — backend engineering, distributed systems,
+databases, infrastructure, system design, and application security.
+</details>
 
-`Node.js` `Express` `PostgreSQL` `MongoDB` `Redis` `RabbitMQ` `Socket.io` `Firebase FCM` `AWS S3`
-`Docker` `Kubernetes` `React` `Next.js` `Java` `C++` `Python`
+<img src="./assets/divider-pulse.svg" width="100%" alt=""/>
 
-### ⏺ Bash(cat contributions.log)
+## ⏺ How I Think
+
 <div align="center">
-  <img src="../../blob/output/snake-dark.svg" width="100%" alt="contribution snake, Claude-themed"/>
-
+<img src="./assets/flow-think.svg" width="900" alt="idea to build to break to debug to understand, looping"/>
 </div>
 
+> **I don't just want to make things work.**
+> **I want to understand why they work — and what happens when they don't.**
 
-### ⏺ Bash(cat milestones.log)
+<img src="./assets/divider-pulse.svg" width="100%" alt=""/>
 
-```
-[WINNER]     miniMide Hackathon — Best Healthcare Innovation
-[FINALIST]   Level SuperMind Hackathon
-[BACKGROUND] Former NCC Cadet
-```
-
-### ⏺ Task(open-to)
-
-```
-backend engineering roles · distributed systems · infra · dev tools · security
-open to hackathons, OSS, and systems-heavy side projects
-```
+## ⏺ Currently
 
 <div align="center">
+<img src="./assets/progress-currently.svg" width="760" alt="building, learning, exploring — animated progress"/>
+</div>
 
+<img src="./assets/divider-pulse.svg" width="100%" alt=""/>
+
+## ⏺ My Stack
+
+<p align="center">
+
+**Languages**
+<br/><img src="https://skillicons.dev/icons?i=java,cpp,js,python&perline=8" alt="Languages"/>
+
+**Backend**
+<br/><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=8" alt="Backend"/>
+
+**Data & Messaging**
+<br/><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq&perline=8" alt="Data and messaging"/>
+
+**Infrastructure**
+<br/><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx&perline=8" alt="Infrastructure"/>
+
+**Frontend**
+<br/><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=8" alt="Frontend"/>
+
+**Tools**
+<br/><img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=8" alt="Tools"/>
+
+</p>
+
+<img src="./assets/divider-pulse.svg" width="100%" alt=""/>
+
+## ⏺ My Journey
+
+<div align="center">
+<img src="./assets/timeline-journey.svg" width="900" alt="2022 to 2026 timeline, animated"/>
+</div>
+
+<img src="./assets/divider-pulse.svg" width="100%" alt=""/>
+
+## ⏺ Things I Enjoy
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│   ⚙️  Backend Architecture      📨  Message Queues          │
+│   🗄️  Database Design          🔐  Authentication & Security │
+│   ⚡  Performance & Caching     ☁️  Infrastructure           │
+│   🌐  Distributed Systems       🧠  System Design            │
+└─────────────────────────────────────────────────────────────┘
+```
+
+## ⏺ Outside the Terminal
+
+```text
+🎮 Gaming     📚 Reading      🏆 Hackathons
+🧩 DSA        🎧 Music        👥 LAN / Team Events
+```
+
+I'm also a former **NCC cadet**, which taught me a lot about discipline,
+teamwork and responsibility outside of software.
+
+<img src="./assets/divider-pulse.svg" width="100%" alt=""/>
+
+## ⏺ A Few Milestones
+
+<div align="center">
+<img src="./assets/milestones-shine.svg" width="900" alt="hackathon wins, shine sweep"/>
+</div>
+
+<img src="./assets/divider-pulse.svg" width="100%" alt=""/>
+
+## ☕ `random_facts.sh`
+
+```bash
+$ ./random_facts.sh
+
+> favorite debugging technique:
+  stare at the code until it becomes someone else's bug.
+
+> current obsession:
+  "how does this actually work under the hood?"
+
+> weakness:
+  optimizing something that already worked.
+
+> superpower:
+  refusing to leave a bug unexplained.
+
+> preferred environment:
+  terminal + headphones + questionable amount of coffee.
+
+> status:
+  ● BUILDING
+```
+
+<img src="./assets/divider-pulse.svg" width="100%" alt=""/>
+
+## ⏺ GitHub Activity
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryan681&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&icon_color=D97757&title_color=D97757&text_color=EDE7DE" alt="stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan681&layout=compact&hide_border=true&theme=transparent&langs_count=8&title_color=D97757&text_color=EDE7DE" alt="top langs"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Aryan681&theme=transparent&hide_border=true&ring=D97757&fire=D97757&currStreakLabel=EDE7DE" alt="streak"/>
+</p>
+
+<!-- snake — generated by .github/workflows/snake.yml, left exactly as-is -->
+<p align="center">
+  <img src="./assets/snake-dark.svg" width="100%" alt="contribution snake, Claude-themed"/>
+</p>
+
+<img src="./assets/divider-pulse.svg" width="100%" alt=""/>
+
+## ⏺ What I'm Looking For
+
+<div align="center">
+<img src="./assets/lookingfor-flow.svg" width="760" alt="learn, build, improve, ship"/>
+</div>
+
+**Backend Engineering · Distributed Systems · Infrastructure · Developer Tools · Security**
+
+<img src="./assets/divider-pulse.svg" width="100%" alt=""/>
+
+## ⏺ Let's Connect
+
+<p align="center">
 <a href="https://www.linkedin.com/in/aryansingh1-2-/"><img src="https://img.shields.io/badge/LinkedIn-D97757?style=for-the-badge&labelColor=1F1B17&logo=linkedin&logoColor=D97757"></a>
 <a href="https://x.com/Aryan_Naruka"><img src="https://img.shields.io/badge/X-D97757?style=for-the-badge&labelColor=1F1B17&logo=x&logoColor=D97757"></a>
 <a href="mailto:Aryannaruka7@gmail.com"><img src="https://img.shields.io/badge/Email-D97757?style=for-the-badge&labelColor=1F1B17&logo=gmail&logoColor=D97757"></a>
+</p>
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║       BUILD  →  BREAK  →  LEARN  →  REPEAT              ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<sub>Thanks for stopping by. ⭐</sub>
 
 </div>
+
+<img src="./assets/divider-pulse.svg" width="100%" alt=""/>

@@ -1,373 +1,168 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  aryan@claude-code — session transcript                     -->
+<!--  theme: Claude Code CLI (rust / charcoal / cream)            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                         ARYAN SINGH                                     -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:D97757,100:1F1B17&width=100%" width="100%" alt=""/>
+</p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<br/>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Aryan+Singh+%F0%9F%91%8B;Backend+Engineer+in+the+making;I+build+systems%2C+not+just+applications.;Curious+about+what+happens+under+the+hood."
-    alt="Typing animation"
+    src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=3200&pause=1200&color=D97757&background=00000000&center=true&vCenter=true&width=760&height=40&lines=~%2Faryan-singh"
+    alt="pixel terminal path"
   />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12,20,24&section=header&text=ARYAN%20SINGH&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=900&color=EDE7DE&center=true&vCenter=true&width=760&lines=%24+claude+--resume+aryan;Loading+session...+backend+engineer+detected.;Context%3A+Node.js%2C+PostgreSQL%2C+Redis%2C+RabbitMQ.;Ready.+Ask+me+anything+about+this+repo+owner."
+    alt="typing terminal"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Aryan681">
-    <img src="https://img.shields.io/github/followers/Aryan681?label=Followers&style=flat-square&logo=github&color=58A6FF"/>
-  </a>
-  <a href="https://github.com/Aryan681?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Aryan681?affiliations=OWNER&style=flat-square&logo=github&color=58A6FF&label=Stars"/>
-  </a>
-  <a href="mailto:Aryannaruka7@gmail.com">
-    <img src="https://img.shields.io/badge/Open%20to%20opportunities-58A6FF?style=flat-square"/>
-  </a>
+  <a href="https://github.com/Aryan681"><img src="https://img.shields.io/badge/GITHUB-Aryan681-1F1B17?style=flat-square&logo=github&logoColor=D97757&labelColor=1F1B17" /></a>
+  <a href="https://www.linkedin.com/in/aryansingh1-2-/"><img src="https://img.shields.io/badge/LINKEDIN-connect-1F1B17?style=flat-square&logo=linkedin&logoColor=D97757&labelColor=1F1B17" /></a>
+  <a href="https://x.com/Aryan_Naruka"><img src="https://img.shields.io/badge/X-@Aryan__Naruka-1F1B17?style=flat-square&logo=x&logoColor=D97757&labelColor=1F1B17" /></a>
+  <a href="mailto:Aryannaruka7@gmail.com"><img src="https://img.shields.io/badge/MAIL-say_hello-1F1B17?style=flat-square&logo=gmail&logoColor=D97757&labelColor=1F1B17" /></a>
 </p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<!--                            TERMINAL                                    -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-```text
-┌──────────────────────────────────────────────────────────────────────┐
-│  aryan@github ~ $ whoami                                             │
-├──────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  Aryan Singh                                                         │
-│  ├── Backend Engineer                                                │
-│  ├── Computer Science                                                │
-│  ├── India 🇮🇳                                                       │
-│  └── Currently building things that probably shouldn't break 😅      │
-│                                                                      │
-│  aryan@github ~ $ cat interests.txt                                  │
-│                                                                      │
-│  > Backend Engineering                                               │
-│  > Distributed Systems                                               │
-│  > Databases & Infrastructure                                        │
-│  > Authentication & Security                                        │
-│  > System Design                                                     │
-│  > Open Source                                                       │
-│                                                                      │
-│  aryan@github ~ $ ./current_status                                   │
-│                                                                      │
-│  [████████████████████░░] Learning                                   │
-│  [██████████████████░░░░] Building                                  │
-│  [███████████████░░░░░░░] Exploring                                 │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🧑‍💻 A little about me
-
-I'm a **Computer Science graduate / backend-focused developer** who enjoys understanding how software works behind the API.
-
-I started with web development, but over time I became much more interested in the parts that aren't immediately visible:
-
-**databases → caching → queues → distributed services → authentication → reliability → security**
-
-I like taking an idea, breaking it into systems, and then figuring out how those systems communicate.
-
-Currently, I'm focused on becoming a stronger **backend / software engineer** and building things that resemble the systems used in real products.
-
----
-
-## 🧠 My Engineering Mindset
 
 <p align="center">
-
-```text
-        ┌───────────────┐
-        │   BUILD IT    │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │ BREAK  IT     │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │ UNDERSTAND IT │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │  IMPROVE IT   │
-        └───────┬───────┘
-                │
-                └──────────────► repeat
-```
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1F1B17,100:D97757&width=100%" width="100%" alt=""/>
 </p>
 
-> **I don't just want to make things work.
-> I want to understand why they work — and what happens when they don't.**
+<br/>
 
----
+### ⏺ Bash(whoami --verbose)
 
-## ⚡ Currently
+```
+Aryan Singh
+├─ role      : Backend Engineer (Node.js)
+├─ education : B.Tech CSE, NIMS University, Jaipur (2022–2026)
+├─ focus     : systems that stay up at 3am — not just APIs that respond
+└─ mindset   : build → break → understand → rebuild, better
+```
 
-<table>
-<tr>
-<td width="33%" align="center">
+<details>
+<summary>⏺ <b>Thinking…</b> <i>(click to expand — how I actually got here)</i></summary>
 
-### 🔨 Building
+<br/>
 
-Backend systems
+```
+2022  started with plain HTML/CSS/JS — curious why a browser even renders a div
+2023  moved into React + Node — realized the frontend was never the interesting part
+2024  went backend-first — REST APIs, MongoDB, then PostgreSQL once I hit real limits
+2025  shipped production systems — Redis for speed, RabbitMQ for the stuff that
+      can't be allowed to just disappear when a request fails
+2026  going deeper — system design, distributed systems, security, infra
+```
 
-**Node.js · PostgreSQL · Redis**
+I don't chase frameworks. I chase the question **"what breaks first, and why?"**
+That question is basically my whole personality at this point.
 
-</td>
+</details>
 
-<td width="33%" align="center">
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D97757,100:1F1B17&width=100%" width="100%" alt=""/></p>
 
-### 📚 Learning
+### ⏺ Read(currently-working-on.md)
 
-Distributed systems
+```
+⎿  🔨 building     → real-time calling/social backend (Node.js, Socket.io, Redis)
+   📚 learning      → distributed systems: Docker, Kubernetes, system design
+   🔍 exploring     → auth, security, message queues at scale
+```
 
-**Docker · Kubernetes · System Design**
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D97757,100:1F1B17&width=100%" width="100%" alt=""/></p>
 
-</td>
+### ⏺ Read(stack.json)
 
-<td width="33%" align="center">
-
-### 🧪 Exploring
-
-Security & infrastructure
-
-**OAuth · Queues · Cloud**
-
-</td>
-</tr>
+<table width="100%">
+<tr><td width="18%" align="right"><b>languages</b></td><td><img src="https://skillicons.dev/icons?i=java,cpp,js,python&theme=dark" height="34"/></td></tr>
+<tr><td align="right"><b>backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" height="34"/></td></tr>
+<tr><td align="right"><b>data / queues</b></td><td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq&theme=dark" height="34"/></td></tr>
+<tr><td align="right"><b>infra</b></td><td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx&theme=dark" height="34"/></td></tr>
+<tr><td align="right"><b>frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" height="34"/></td></tr>
+<tr><td align="right"><b>tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" height="34"/></td></tr>
 </table>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D97757,100:1F1B17&width=100%" width="100%" alt=""/></p>
 
-## 🛠️ My Toolkit
+### ⏺ Grep("what actually breaks in production")
 
-### Languages
+```
+⎿  request comes in
+     └─ auth checks it
+          └─ business logic touches the DB
+               ├─ cache misses, so Redis gets hit next time
+               └─ something slow gets pushed to RabbitMQ instead of blocking
+                    └─ a worker somewhere else deals with it
+                         └─ if that worker dies silently, nobody finds out
+                              for 6 hours — unless someone designed for that.
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,js,python" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-### Data & Messaging
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq" />
-</p>
-
-### Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
-
----
-
-## 🧩 What I Like Working On
-
-```text
-Backend
-██████████████████████████████  90%
-
-Databases
-██████████████████████████░░░░  80%
-
-Distributed Systems
-████████████████████░░░░░░░░░░  70%
-
-Infrastructure
-██████████████████░░░░░░░░░░░░  65%
-
-Security
-██████████████████░░░░░░░░░░░░  65%
-
-Frontend
-███████████████░░░░░░░░░░░░░░░  55%
+   note: I've been that someone. more than once.
 ```
 
-*Not scientific. Just an honest representation of where my curiosity currently lives.*
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D97757,100:1F1B17&width=100%" width="100%" alt=""/></p>
 
----
+### ⏺ Bash(cat milestones.log)
 
-## 🗺️ My Journey
-
-```text
-2022
- │
- ├── Started Computer Science
- │
- ▼
-2023
- │
- ├── Web Development
- │   ├── JavaScript
- │   ├── React
- │   └── Node.js
- │
- ▼
-2024
- │
- ├── Backend Engineering
- │   ├── REST APIs
- │   ├── MongoDB
- │   └── PostgreSQL
- │
- ▼
-2025
- │
- ├── Real-world systems
- │   ├── Redis
- │   ├── RabbitMQ
- │   ├── Docker
- │   └── Microservices
- │
- ▼
-2026
- │
- ├── Going deeper
- │   ├── System Design
- │   ├── Distributed Systems
- │   ├── Security
- │   └── Infrastructure
- │
- ▼
-        🚀 What's next?
+```
+[WINNER]    miniMide Hackathon — Best Healthcare Innovation
+[FINALIST]  Level SuperMind Hackathon
+[BACKGROUND] Former NCC Cadet — discipline carries over to how I ship code
 ```
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D97757,100:1F1B17&width=100%" width="100%" alt=""/></p>
 
-## 🏆 A Few Milestones
+### ⏺ Read(outside_the_terminal.txt)
 
-<p align="center">
-
-|    | Achievement                                                  |
-| -- | ------------------------------------------------------------ |
-| 🥇 | **Winner — miniMide Hackathon** · Best Healthcare Innovation |
-| 🏅 | **Finalist — Level SuperMind Hackathon**                     |
-| 🎓 | **B.Tech Computer Science · 2022–2026**                      |
-| 💻 | Built and deployed full-stack & backend systems              |
-| 🧠 | Actively solving DSA & studying system design                |
-
-</p>
-
----
-
-## 🎮 Outside the Code
-
-When I'm not staring at a terminal:
-
-```text
-🎮 Gaming
-📚 Reading
-🏆 Hackathons
-🧩 DSA
-🎧 Music
-👥 LAN / Team Events
+```
+⎿  gaming · reading · DSA grinding · LAN sessions with the team · music while debugging
 ```
 
-I'm also a former **NCC cadet**, which gave me a pretty different perspective on discipline, teamwork and responsibility outside of software.
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D97757,100:1F1B17&width=100%" width="100%" alt=""/></p>
 
----
+### ⏺ Bash(git log --stats --author="Aryan Singh")
 
-## ☕ Random Facts
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryan681&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&icon_color=D97757&title_color=D97757&text_color=EDE7DE" alt="stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan681&layout=compact&hide_border=true&theme=transparent&langs_count=8&title_color=D97757&text_color=EDE7DE" alt="top langs"/>
+</p>
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  > favorite debugging technique                            │
-│    stare at the code until it becomes someone else's bug   │
-│                                                            │
-│  > preferred environment                                    │
-│    terminal + headphones + questionable amount of coffee   │
-│                                                            │
-│  > current obsession                                       │
-│    "how does this actually work under the hood?"           │
-│                                                            │
-│  > weakness                                                 │
-│    spending 3 hours optimizing something that worked       │
-│                                                            │
-│  > superpower                                               │
-│    refusing to leave a bug unexplained                     │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Aryan681&theme=transparent&hide_border=true&ring=D97757&fire=D97757&currStreakLabel=EDE7DE" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan681&theme=react-dark&hide_border=true&area=true&color=D97757&line=D97757&point=EDE7DE" alt="activity graph"/>
+</p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D97757,100:1F1B17&width=100%" width="100%" alt=""/></p>
+
+### ⏺ Task(what I'm looking for next)
+
+```
+⎿  backend engineering roles  → distributed systems, infra, dev tools, security
+   collaboration               → open to hackathons, OSS, systems-heavy side projects
+   status                       → actively building, actively looking
 ```
 
----
-
-## 📊 GitHub
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aryan681&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan681&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+  <a href="https://www.linkedin.com/in/aryansingh1-2-/"><img src="https://img.shields.io/badge/CONNECT-LinkedIn-D97757?style=for-the-badge&labelColor=1F1B17&logo=linkedin&logoColor=D97757"/></a>
+  <a href="https://x.com/Aryan_Naruka"><img src="https://img.shields.io/badge/FOLLOW-X-D97757?style=for-the-badge&labelColor=1F1B17&logo=x&logoColor=D97757"/></a>
+  <a href="mailto:Aryannaruka7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-say_hello-D97757?style=for-the-badge&labelColor=1F1B17&logo=gmail&logoColor=D97757"/></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan681&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aryan681/Aryan681/output/github-contribution-grid-snake.svg" alt="Contribution animation"/>
-</p>
-
----
-
-## 🌐 Find Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/aryansingh1-2-/">
-<img src="https://img.shields.io/badge/LinkedIn-Aryan%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/Aryan_Naruka">
-<img src="https://img.shields.io/badge/X-@Aryan__Naruka-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="mailto:Aryannaruka7@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,20,24&section=footer" width="100%"/>
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=11&duration=4000&pause=1500&color=D97757&background=00000000&center=true&vCenter=true&width=760&lines=session+ended.+thanks+for+reading.;%E2%97%8F+status%3A+building"
+    alt="pixel sign-off"
+  />
 </p>
 
 <p align="center">
-  <b>Build → Break → Learn → Repeat.</b>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1F1B17,100:D97757&width=100%" width="100%" alt=""/>
 </p>

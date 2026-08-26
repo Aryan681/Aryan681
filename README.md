@@ -1,18 +1,17 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--  aryan@claude-code — session transcript                     -->
-<!--  every asset below is self-hosted in /assets — no third-    -->
-<!--  party badge generators driving the main visuals            -->
+<!--  Claude's own cream/rust palette — every asset self-hosted  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="./assets/terminal-banner.svg" width="900" alt="Aryan Singh — terminal session"/>
+<img src="./assets/terminal-banner.svg" width="720" alt="Aryan Singh — terminal session"/>
 
 <br/><br/>
 
-<a href="https://github.com/Aryan681"><img alt="github" src="https://img.shields.io/badge/Aryan681-1F1B17?style=flat-square&logo=github&logoColor=D97757&labelColor=1F1B17"></a>
-<a href="https://www.linkedin.com/in/aryansingh1-2-/"><img alt="linkedin" src="https://img.shields.io/badge/connect-1F1B17?style=flat-square&logo=linkedin&logoColor=D97757&labelColor=1F1B17"></a>
-<a href="mailto:Aryannaruka7@gmail.com"><img alt="mail" src="https://img.shields.io/badge/say_hello-1F1B17?style=flat-square&logo=gmail&logoColor=D97757&labelColor=1F1B17"></a>
+<a href="https://github.com/Aryan681"><img alt="github" src="https://img.shields.io/badge/Aryan681-F0EEE6?style=flat-square&logo=github&logoColor=D97757&labelColor=F0EEE6"></a>
+<a href="https://www.linkedin.com/in/aryansingh1-2-/"><img alt="linkedin" src="https://img.shields.io/badge/connect-F0EEE6?style=flat-square&logo=linkedin&logoColor=D97757&labelColor=F0EEE6"></a>
+<a href="mailto:Aryannaruka7@gmail.com"><img alt="mail" src="https://img.shields.io/badge/say_hello-F0EEE6?style=flat-square&logo=gmail&logoColor=D97757&labelColor=F0EEE6"></a>
 
 </div>
 
@@ -20,7 +19,8 @@
 
 <!-- ───────────────────────── interactive terminal ───────────────────────── -->
 
-## ⏺ `aryan@claude-code ~ $` <sub>— click any command to run it</sub>
+<img src="./assets/title-terminal.svg" alt="aryan@claude-code ~ $"/>
+<sub>— click any command to run it</sub>
 
 <details>
 <summary>⏺ <code>whoami --verbose</code></summary>
@@ -77,7 +77,7 @@ databases, infrastructure, system design, and application security.
 
 <img src="./assets/divider-pulse.svg" width="100%" alt=""/>
 
-## ⏺ How I Think
+<img src="./assets/title-think.svg" alt="How I Think"/>
 
 <div align="center">
 <img src="./assets/flow-think.svg" width="900" alt="idea to build to break to debug to understand, looping"/>
@@ -88,7 +88,7 @@ databases, infrastructure, system design, and application security.
 
 <img src="./assets/divider-pulse.svg" width="100%" alt=""/>
 
-## ⏺ Currently
+<img src="./assets/title-currently.svg" alt="Currently"/>
 
 <div align="center">
 <img src="./assets/progress-currently.svg" width="760" alt="building, learning, exploring — animated progress"/>
@@ -96,7 +96,7 @@ databases, infrastructure, system design, and application security.
 
 <img src="./assets/divider-pulse.svg" width="100%" alt=""/>
 
-## ⏺ My Stack
+<img src="./assets/title-stack.svg" alt="My Stack"/>
 
 <p align="center">
 
@@ -122,7 +122,7 @@ databases, infrastructure, system design, and application security.
 
 <img src="./assets/divider-pulse.svg" width="100%" alt=""/>
 
-## ⏺ My Journey
+<img src="./assets/title-journey.svg" alt="My Journey"/>
 
 <div align="center">
 <img src="./assets/timeline-journey.svg" width="900" alt="2022 to 2026 timeline, animated"/>
@@ -130,7 +130,7 @@ databases, infrastructure, system design, and application security.
 
 <img src="./assets/divider-pulse.svg" width="100%" alt=""/>
 
-## ⏺ Things I Enjoy
+<img src="./assets/title-enjoy.svg" alt="Things I Enjoy"/>
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
@@ -141,7 +141,7 @@ databases, infrastructure, system design, and application security.
 └─────────────────────────────────────────────────────────────┘
 ```
 
-## ⏺ Outside the Terminal
+<img src="./assets/title-outside.svg" alt="Outside the Terminal"/>
 
 ```text
 🎮 Gaming     📚 Reading      🏆 Hackathons
@@ -153,7 +153,7 @@ teamwork and responsibility outside of software.
 
 <img src="./assets/divider-pulse.svg" width="100%" alt=""/>
 
-## ⏺ A Few Milestones
+<img src="./assets/title-milestones.svg" alt="A Few Milestones"/>
 
 <div align="center">
 <img src="./assets/milestones-shine.svg" width="900" alt="hackathon wins, shine sweep"/>
@@ -161,7 +161,7 @@ teamwork and responsibility outside of software.
 
 <img src="./assets/divider-pulse.svg" width="100%" alt=""/>
 
-## ☕ `random_facts.sh`
+<img src="./assets/title-facts.svg" alt="random_facts.sh"/>
 
 ```bash
 $ ./random_facts.sh
@@ -187,7 +187,7 @@ $ ./random_facts.sh
 
 <img src="./assets/divider-pulse.svg" width="100%" alt=""/>
 
-## ⏺ GitHub Activity
+<img src="./assets/title-activity.svg" alt="GitHub Activity"/>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-extended.vercel.app/api?username=Aryan681&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&icon_color=D97757&title_color=D97757&text_color=EDE7DE" alt="stats"/>
@@ -204,9 +204,10 @@ $ ./random_facts.sh
   <img src="../../blob/output/snake-dark.svg" width="100%" alt="contribution snake, Claude-themed"/>
 </p>
 
+
 <img src="./assets/divider-pulse.svg" width="100%" alt=""/>
 
-## ⏺ What I'm Looking For
+<img src="./assets/title-lookingfor.svg" alt="What I'm Looking For"/>
 
 <div align="center">
 <img src="./assets/lookingfor-flow.svg" width="760" alt="learn, build, improve, ship"/>
@@ -216,24 +217,20 @@ $ ./random_facts.sh
 
 <img src="./assets/divider-pulse.svg" width="100%" alt=""/>
 
-## ⏺ Let's Connect
+<img src="./assets/title-connect.svg" alt="Let's Connect"/>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/aryansingh1-2-/"><img src="https://img.shields.io/badge/LinkedIn-D97757?style=for-the-badge&labelColor=1F1B17&logo=linkedin&logoColor=D97757"></a>
-<a href="https://x.com/Aryan_Naruka"><img src="https://img.shields.io/badge/X-D97757?style=for-the-badge&labelColor=1F1B17&logo=x&logoColor=D97757"></a>
-<a href="mailto:Aryannaruka7@gmail.com"><img src="https://img.shields.io/badge/Email-D97757?style=for-the-badge&labelColor=1F1B17&logo=gmail&logoColor=D97757"></a>
+<a href="https://www.linkedin.com/in/aryansingh1-2-/"><img src="https://img.shields.io/badge/LinkedIn-F0EEE6?style=for-the-badge&labelColor=F0EEE6&logo=linkedin&logoColor=D97757"></a>
+<a href="https://x.com/Aryan_Naruka"><img src="https://img.shields.io/badge/X-F0EEE6?style=for-the-badge&labelColor=F0EEE6&logo=x&logoColor=D97757"></a>
+<a href="mailto:Aryannaruka7@gmail.com"><img src="https://img.shields.io/badge/Email-F0EEE6?style=for-the-badge&labelColor=F0EEE6&logo=gmail&logoColor=D97757"></a>
 </p>
 
 <div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║       BUILD  →  BREAK  →  LEARN  →  REPEAT              ║
-╚══════════════════════════════════════════════════════════╝
-```
 
 <sub>Thanks for stopping by. ⭐</sub>
 
 </div>
 
 <img src="./assets/divider-pulse.svg" width="100%" alt=""/>
+
+

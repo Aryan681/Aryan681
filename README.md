@@ -36,15 +36,11 @@ exploring  → auth patterns, message queues, and infra at scale
 `Docker` `Kubernetes` `React` `Next.js` `Java` `C++` `Python`
 
 ### ⏺ Bash(cat contributions.log)
-
 <div align="center">
- <img src="https://githubusercontent.com" width="100%" alt="contribution snake, Claude-themed"/>
+  <img src="../../blob/output/snake-dark.svg" width="100%" alt="contribution snake, Claude-themed"/>
+
 </div>
 
-
-> Auto-regenerates daily via `.github/workflows/snake.yml` — it's pulling your real
-> contribution graph and re-drawing it in the same rust/charcoal palette as the banner
-> above, so this section stays alive on its own.
 
 ### ⏺ Bash(cat milestones.log)
 

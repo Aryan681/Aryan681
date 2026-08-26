@@ -103,31 +103,7 @@ teamwork and responsibility outside of software.
 
 <img src="./assets/divider-pulse.svg" width="100%" alt=""/>
 
-<img src="./assets/title-facts.svg" alt="random_facts.sh"/>
 
-```bash
-$ ./random_facts.sh
-
-> favorite debugging technique:
-  stare at the code until it becomes someone else's bug.
-
-> current obsession:
-  "how does this actually work under the hood?"
-
-> weakness:
-  optimizing something that already worked.
-
-> superpower:
-  refusing to leave a bug unexplained.
-
-> preferred environment:
-  terminal + headphones + questionable amount of coffee.
-
-> status:
-  ● BUILDING
-```
-
-<img src="./assets/divider-pulse.svg" width="100%" alt=""/>
 
 <img src="./assets/title-activity.svg" alt="GitHub Activity"/>
 

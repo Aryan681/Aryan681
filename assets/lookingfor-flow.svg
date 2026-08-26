@@ -1,0 +1,14 @@
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg" font-family="JetBrains Mono, monospace">
+  <line x1="40" y1="60" x2="860" y2="60" stroke="#DCD6C7" stroke-width="2"/>
+  <g font-size="14" fill="#30281F">
+    <text x="40" y="40">LEARN</text><text x="290" y="40">BUILD</text><text x="540" y="40">IMPROVE</text><text x="780" y="40">SHIP</text>
+  </g>
+  <g fill="#D9CFBB">
+    <circle cx="60" cy="60" r="5"/><circle cx="310" cy="60" r="5"/><circle cx="565" cy="60" r="5"/><circle cx="800" cy="60" r="5"/>
+  </g>
+  <circle r="8" fill="#D97757">
+    <animate attributeName="cx" values="60;310;565;800;800" keyTimes="0;0.3;0.6;0.9;1" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="60" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="450" y="100" fill="#8A8578" font-size="12" text-anchor="middle">backend · distributed systems · infra · dev tools · security</text>
+</svg>

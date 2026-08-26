@@ -1,0 +1,20 @@
+<svg width="900" height="130" viewBox="0 0 900 130" xmlns="http://www.w3.org/2000/svg" font-family="JetBrains Mono, monospace">
+  <defs>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#D97757" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#F2C4A8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#D97757" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="frame1"><rect x="0" y="0" width="900" height="34"/></clipPath>
+    <clipPath id="frame2"><rect x="0" y="46" width="900" height="34"/></clipPath>
+    <clipPath id="frame3"><rect x="0" y="92" width="900" height="34"/></clipPath>
+  </defs>
+  <g font-size="15" fill="#30281F">
+    <text x="0" y="24">🥇 WINNER — miniMide Hackathon · Best Healthcare Innovation</text>
+    <text x="0" y="70">🏅 FINALIST — Level SuperMind Hackathon</text>
+    <text x="0" y="116">🎖️ Former NCC Cadet — discipline that carries into how I ship</text>
+  </g>
+  <g clip-path="url(#frame1)"><rect width="220" height="34" fill="url(#shine)"><animate attributeName="x" from="-220" to="900" begin="0.3s" dur="2.2s" repeatCount="indefinite"/></rect></g>
+  <g clip-path="url(#frame2)"><rect y="46" width="220" height="34" fill="url(#shine)"><animate attributeName="x" from="-220" to="900" begin="1s" dur="2.2s" repeatCount="indefinite"/></rect></g>
+  <g clip-path="url(#frame3)"><rect y="92" width="220" height="34" fill="url(#shine)"><animate attributeName="x" from="-220" to="900" begin="1.7s" dur="2.2s" repeatCount="indefinite"/></rect></g>
+</svg>

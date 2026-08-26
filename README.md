@@ -38,7 +38,7 @@ exploring  → auth patterns, message queues, and infra at scale
 ### ⏺ Bash(cat contributions.log)
 
 <div align="center">
-  <img src="https://githubusercontent.com" width="100%" alt="contribution snake, Claude-themed"/>
+ <img src="https://githubusercontent.com" width="100%" alt="contribution snake, Claude-themed"/>
 </div>
 
 

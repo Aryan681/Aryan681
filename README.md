@@ -78,10 +78,7 @@
 
 <img src="./assets/title-outside.svg" alt="Outside the Terminal"/>
 
-```text
-🎮 Gaming     📚 Reading      🏆 Hackathons
-🧩 DSA        🎧 Music        👥 LAN / Team Events
-```
+<img src="./assets/outside-terminal.svg" alt="Outside the Terminal"/>
 
 I'm also a former **NCC cadet**, which taught me a lot about discipline,
 teamwork and responsibility outside of software.

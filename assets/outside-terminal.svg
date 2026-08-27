@@ -1,0 +1,79 @@
+<svg width="900" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg" font-family="JetBrains Mono, monospace">
+  <defs>
+    <linearGradient id="pillFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F5F3EC"/>
+      <stop offset="100%" stop-color="#EDE9DD"/>
+    </linearGradient>
+    <filter id="pillShadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="1.5" dy="3" stdDeviation="2.5" flood-color="#30281F" flood-opacity="0.18"/>
+    </filter>
+    <g id="pill">
+      <rect width="1" height="1" opacity="0"/>
+    </g>
+  </defs>
+
+  <!-- row 1 -->
+  <g transform="translate(30,20)">
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.3s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="scale" additive="sum" from="0.5" to="1" begin="0.00s" dur="0.45s" fill="freeze" calcMode="spline" keySplines="0.3 1.6 0.4 1"/>
+      <rect width="140" height="42" rx="21" fill="url(#pillFill)" stroke="#D97757" stroke-width="1.3" filter="url(#pillShadow)"/>
+      <text x="70" y="27" font-size="15" font-weight="700" fill="#30281F" text-anchor="middle">🎮 Gaming</text>
+    </g>
+  </g>
+
+  <g transform="translate(200,20)">
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.08s" dur="0.3s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="scale" additive="sum" from="0.5" to="1" begin="0.08s" dur="0.45s" fill="freeze" calcMode="spline" keySplines="0.3 1.6 0.4 1"/>
+      <rect width="140" height="42" rx="21" fill="url(#pillFill)" stroke="#D97757" stroke-width="1.3" filter="url(#pillShadow)"/>
+      <text x="70" y="27" font-size="15" font-weight="700" fill="#30281F" text-anchor="middle">📚 Reading</text>
+    </g>
+  </g>
+
+  <g transform="translate(370,20)">
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.16s" dur="0.3s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="scale" additive="sum" from="0.5" to="1" begin="0.16s" dur="0.45s" fill="freeze" calcMode="spline" keySplines="0.3 1.6 0.4 1"/>
+      <rect width="160" height="42" rx="21" fill="url(#pillFill)" stroke="#D97757" stroke-width="1.3" filter="url(#pillShadow)"/>
+      <text x="80" y="27" font-size="15" font-weight="700" fill="#30281F" text-anchor="middle">🏆 Hackathons</text>
+    </g>
+  </g>
+
+  <g transform="translate(560,20)">
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.24s" dur="0.3s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="scale" additive="sum" from="0.5" to="1" begin="0.24s" dur="0.45s" fill="freeze" calcMode="spline" keySplines="0.3 1.6 0.4 1"/>
+      <rect width="100" height="42" rx="21" fill="url(#pillFill)" stroke="#D97757" stroke-width="1.3" filter="url(#pillShadow)"/>
+      <text x="50" y="27" font-size="15" font-weight="700" fill="#30281F" text-anchor="middle">🧩 DSA</text>
+    </g>
+  </g>
+
+  <g transform="translate(690,20)">
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.32s" dur="0.3s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="scale" additive="sum" from="0.5" to="1" begin="0.32s" dur="0.45s" fill="freeze" calcMode="spline" keySplines="0.3 1.6 0.4 1"/>
+      <rect width="130" height="42" rx="21" fill="url(#pillFill)" stroke="#D97757" stroke-width="1.3" filter="url(#pillShadow)"/>
+      <text x="65" y="27" font-size="15" font-weight="700" fill="#30281F" text-anchor="middle">🎧 Music</text>
+    </g>
+  </g>
+
+  <!-- row 2 -->
+  <g transform="translate(30,80)">
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.40s" dur="0.3s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="scale" additive="sum" from="0.5" to="1" begin="0.40s" dur="0.45s" fill="freeze" calcMode="spline" keySplines="0.3 1.6 0.4 1"/>
+      <rect width="220" height="42" rx="21" fill="url(#pillFill)" stroke="#D97757" stroke-width="1.3" filter="url(#pillShadow)"/>
+      <text x="110" y="27" font-size="15" font-weight="700" fill="#30281F" text-anchor="middle">👥 LAN / Team Events</text>
+    </g>
+  </g>
+
+  <g transform="translate(270,80)">
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.3s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="scale" additive="sum" from="0.5" to="1" begin="0.48s" dur="0.45s" fill="freeze" calcMode="spline" keySplines="0.3 1.6 0.4 1"/>
+      <rect width="260" height="42" rx="21" fill="#F0DCC8" stroke="#D97757" stroke-width="1.3" filter="url(#pillShadow)"/>
+      <text x="130" y="27" font-size="15" font-weight="700" fill="#30281F" text-anchor="middle">🎖️ Former NCC Cadet</text>
+    </g>
+  </g>
+</svg>

@@ -9,10 +9,11 @@
 <img src="./assets/title-terminal.svg" alt="aryan@claude-code ~ $"/>
 
 
+<a href="https://mysite-two-beige.vercel.app/"><img alt="portfolio" src="https://img.shields.io/badge/Portfolio-F0EEE6?style=flat-square&logo=vercel&logoColor=D97757&labelColor=F0EEE6"></a>
 <a href="https://github.com/Aryan681"><img alt="github" src="https://img.shields.io/badge/Aryan681-F0EEE6?style=flat-square&logo=github&logoColor=D97757&labelColor=F0EEE6"></a>
-<a href="https://www.linkedin.com/in/aryansingh1-2-/"><img alt="linkedin" src="https://img.shields.io/badge/connect-F0EEE6?style=flat-square&logo=linkedin&logoColor=D97757&labelColor=F0EEE6"></a>
-<a href="mailto:Aryannaruka7@gmail.com"><img alt="mail" src="https://img.shields.io/badge/say_hello-F0EEE6?style=flat-square&logo=gmail&logoColor=D97757&labelColor=F0EEE6"></a>
-
+<a href="https://www.linkedin.com/in/aryansingh1-2-/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-F0EEE6?style=flat-square&logo=linkedin&logoColor=D97757&labelColor=F0EEE6"></a>
+<a href="https://leetcode.com/u/mellomix09/"><img alt="leetcode" src="https://img.shields.io/badge/mellomix09-F0EEE6?style=flat-square&logo=leetcode&logoColor=D97757&labelColor=F0EEE6"></a>
+<a href="mailto:Aryannaruka7@gmail.com"><img alt="mail" src="https://img.shields.io/badge/Mail_me-F0EEE6?style=flat-square&logo=gmail&logoColor=D97757&labelColor=F0EEE6"></a>
 </div>
 
 <img src="./assets/divider-pulse.svg" width="100%" alt=""/>
@@ -127,7 +128,10 @@
 <img src="./assets/title-connect.svg" alt="Let's Connect"/>
 
 <p align="center">
+<a href="https://mysite-two-beige.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F0EEE6?style=for-the-badge&labelColor=F0EEE6&logo=vercel&logoColor=D97757"></a>
+<a href="https://github.com/Aryan681"><img src="https://img.shields.io/badge/GitHub-F0EEE6?style=for-the-badge&labelColor=F0EEE6&logo=github&logoColor=D97757"></a>
 <a href="https://www.linkedin.com/in/aryansingh1-2-/"><img src="https://img.shields.io/badge/LinkedIn-F0EEE6?style=for-the-badge&labelColor=F0EEE6&logo=linkedin&logoColor=D97757"></a>
+<a href="https://leetcode.com/u/mellomix09/"><img src="https://img.shields.io/badge/LeetCode-F0EEE6?style=for-the-badge&labelColor=F0EEE6&logo=leetcode&logoColor=D97757"></a>
 <a href="https://x.com/Aryan_Naruka"><img src="https://img.shields.io/badge/X-F0EEE6?style=for-the-badge&labelColor=F0EEE6&logo=x&logoColor=D97757"></a>
 <a href="mailto:Aryannaruka7@gmail.com"><img src="https://img.shields.io/badge/Email-F0EEE6?style=for-the-badge&labelColor=F0EEE6&logo=gmail&logoColor=D97757"></a>
 </p>

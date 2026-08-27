@@ -42,25 +42,11 @@
 <img src="./assets/title-stack.svg" alt="My Stack"/>
 
 <p align="center">
-
-**Languages**
-<br/><img src="https://skillicons.dev/icons?i=java,cpp,js,python&perline=8" alt="Languages"/>
-
-**Backend**
-<br/><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=8" alt="Backend"/>
-
-**Data & Messaging**
-<br/><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq&perline=8" alt="Data and messaging"/>
-
-**Infrastructure**
-<br/><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx&perline=8" alt="Infrastructure"/>
-
-**Frontend**
-<br/><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=8" alt="Frontend"/>
-
-**Tools**
-<br/><img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=8" alt="Tools"/>
-
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=java,js,react,tailwind,bootstrap,vite,nodejs,express,fastapi,mongodb,postgres,redis,rabbitmq,docker,nginx,git,github,githubactions,postman,aws&perline=10"
+    alt="Tech Stack"
+  />
 </p>
 
 <img src="./assets/divider-pulse.svg" width="100%" alt=""/>

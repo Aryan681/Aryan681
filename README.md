@@ -75,13 +75,12 @@
 <img src="./assets/title-enjoy.svg" alt="Things I Enjoy"/>
 
 <img src="./assets/things-i-enjoy-v4.svg" alt="Things I Enjoy"/>
-
+<img src="./assets/divider-pulse.svg" width="100%" alt=""/>
 <img src="./assets/title-outside.svg" alt="Outside the Terminal"/>
 
 <img src="./assets/outside-terminal.svg" alt="Outside the Terminal"/>
 
-I'm also a former **NCC cadet**, which taught me a lot about discipline,
-teamwork and responsibility outside of software.
+
 
 <img src="./assets/divider-pulse.svg" width="100%" alt=""/>
 

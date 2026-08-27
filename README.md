@@ -74,14 +74,7 @@
 
 <img src="./assets/title-enjoy.svg" alt="Things I Enjoy"/>
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│   ⚙️  Backend Architecture      📨  Message Queues          │
-│   🗄️  Database Design          🔐  Authentication & Security │
-│   ⚡  Performance & Caching     ☁️  Infrastructure           │
-│   🌐  Distributed Systems       🧠  System Design            │
-└─────────────────────────────────────────────────────────────┘
-```
+<img src="./assets/things-i-enjoy-v4.svg" alt="Things I Enjoy"/>
 
 <img src="./assets/title-outside.svg" alt="Outside the Terminal"/>
 

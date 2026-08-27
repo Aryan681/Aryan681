@@ -53,7 +53,7 @@
       </circle>
     </g>
 
-    <text x="0" y="66" fill="#F0EEE6" font-size="12">real-time calling/social backend — Node.js · Socket.io · Redis</text>
+<text x="0" y="66" fill="#F0EEE6" font-size="12">identity security engine — authentication · sessions · token security · threat detection</text>
   </g>
 
   <!-- ── learning ── -->
